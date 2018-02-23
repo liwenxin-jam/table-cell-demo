@@ -234,4 +234,4 @@
 
 - 参考文献
 1、[我所知道的几种display:table-cell的应用](http://www.zhangxinxu.com/wordpress/2010/10/%E6%88%91%E6%89%80%E7%9F%A5%E9%81%93%E7%9A%84%E5%87%A0%E7%A7%8Ddisplaytable-cell%E7%9A%84%E5%BA%94%E7%94%A8/)
-2、[https://www.jianshu.com/p/2479665ee1f8](https://www.jianshu.com/p/2479665ee1f8)
+2、[CSS——布局布局神器display:table-cell](https://www.jianshu.com/p/2479665ee1f8)
